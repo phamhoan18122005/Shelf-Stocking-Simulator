@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: snack_shrimp
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: snack_shrimp
+  displayName: "Snack t\xF4m"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: -3165218730597594027, guid: 0fbcc32d504777841b4b4e8603128758, type: 3}
+  purchasePrice: 5000
+  suggestedPrice: 8000
+  unitsPerBox: 8
+  placement: 1
+  unlockLevel: 1
+  buyThreshold: 1.2
+  leaveThreshold: 1.5

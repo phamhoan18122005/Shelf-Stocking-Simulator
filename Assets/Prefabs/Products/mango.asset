@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: mango
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: mango
+  displayName: "Xo\xE0i"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: 1044805915637053743, guid: 72c63b7f378daf545aeb29aacc864a1e, type: 3}
+  purchasePrice: 30000
+  suggestedPrice: 45000
+  unitsPerBox: 6
+  placement: 2
+  unlockLevel: 2
+  buyThreshold: 1.2
+  leaveThreshold: 1.5
