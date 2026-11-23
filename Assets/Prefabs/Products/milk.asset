@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: milk
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: milk
+  displayName: "S\u1EEFa"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: 8034818911971767518, guid: b95c58ce3143c3a48bf8be2542f182ae, type: 3}
+  purchasePrice: 25000
+  suggestedPrice: 35000
+  unitsPerBox: 8
+  placement: 3
+  unlockLevel: 1
+  buyThreshold: 1.2
+  leaveThreshold: 1.5

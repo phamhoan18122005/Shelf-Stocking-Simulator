@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: noodle_spicy
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: noodle_spicy
+  displayName: "M\u1EF3 cay"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: 5931030233683021822, guid: 6fcced79970b8804395dfd361c75ebc1, type: 3}
+  purchasePrice: 8000
+  suggestedPrice: 12000
+  unitsPerBox: 8
+  placement: 1
+  unlockLevel: 1
+  buyThreshold: 1.2
+  leaveThreshold: 1.5

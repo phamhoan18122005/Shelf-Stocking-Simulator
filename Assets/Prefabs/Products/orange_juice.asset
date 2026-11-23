@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: orange_juice
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: orange_juice
+  displayName: "N\u01B0\u1EDBc cam"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: 7815797964869536676, guid: 79c8df0a24ba97e4d9d2194f5ed5396e, type: 3}
+  purchasePrice: 15000
+  suggestedPrice: 22000
+  unitsPerBox: 8
+  placement: 3
+  unlockLevel: 1
+  buyThreshold: 1.2
+  leaveThreshold: 1.5

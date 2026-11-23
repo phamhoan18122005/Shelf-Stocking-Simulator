@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: laundry_powder
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: laundry_powder
+  displayName: "B\u1ED9t gi\u1EB7t"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: -4092156579224005740, guid: 8b55e49f86d86e5409336ef50c843f26, type: 3}
+  purchasePrice: 120000
+  suggestedPrice: 165000
+  unitsPerBox: 4
+  placement: 1
+  unlockLevel: 2
+  buyThreshold: 1.2
+  leaveThreshold: 1.5

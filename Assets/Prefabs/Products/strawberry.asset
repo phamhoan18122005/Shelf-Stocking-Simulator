@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4c1504ba9eb8545aae59b5890cca54, type: 3}
+  m_Name: strawberry
+  m_EditorClassIdentifier: Assembly-CSharp::ProductData
+  id: strawberry
+  displayName: "D\xE2u t\xE2y"
+  icon: {fileID: 0}
+  modelPrefab: {fileID: -9097849977514019266, guid: 5b3550a17e2ebd74f8775f5ab17f4673, type: 3}
+  purchasePrice: 50000
+  suggestedPrice: 75000
+  unitsPerBox: 6
+  placement: 2
+  unlockLevel: 2
+  buyThreshold: 1.2
+  leaveThreshold: 1.5
